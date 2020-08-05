@@ -1,5 +1,5 @@
 ## After falling down the shitcoin storm, I resurrected as a #bitcoin only guy.
-### Now I'm running my own full node and holding (tight) my keys.
+#### Now I'm running my own full node and holding (tight) my keys.
 
 <!--
 **citizen010/citizen010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

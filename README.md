@@ -1,4 +1,4 @@
-### Hi there 👋
+### After falling down the shitcoin storm, I was resurrected as a #bitcoin only guy. 
 
 <!--
 **citizen010/citizen010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

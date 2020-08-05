@@ -1,5 +1,5 @@
 ## After falling down the shitcoin storm, I resurrected as a #bitcoin only guy.
-Now I'm running my own full node and holding (tight) my keys. There will be no going back.
+Now I'm running my own full node and holding (tight) my keys.
 
 __Working on :__ [Bitcoin In Italiano](https://bitcoin-translate.it) - __Proud user of :__ [BTCPayServer](https://github.com/btcpayserver/btcpayserver)
 

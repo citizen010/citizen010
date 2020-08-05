@@ -2,6 +2,8 @@
 ### Now I'm running my own full node and holding (tight) my keys while ([tweeting](https://twitter.com/@italiansatoshi)) from time to time.
 __Working on:__ [Bitcoin In Italiano](https://bitcoin-translate.it)
 
+<!--
+
 Past work:
 
 [Bitcoin Health](https://btc.onosendai.eu)
@@ -9,7 +11,6 @@ Past work:
 [Bitcoin Pre-History](https://btc.onosendai.eu/prehistory/)
 
 [You Are Being Watched](https://onosendai.eu) 
-<!--
 **citizen010/citizen010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

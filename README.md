@@ -1,7 +1,7 @@
 ## After falling down the shitcoin storm, I resurrected as a #bitcoin only guy.
 Now I'm running my own full node on my own hardware while holding (tight) my keys.
 
-__Working on :__ [Bitcoin In Italiano](https://bitcoin-translate.it) - __Proud user of :__ [BTCPayServer](https://github.com/btcpayserver/btcpayserver)
+__Working on :__ [Bitcoin In Italiano](https://bitcoin-translate.it) - __Proud user of :__ [BTCPayServer](https://github.com/btcpayserver/btcpayserver) - __Substack: [btcita.substack.com](https://btcita.substack.com) 
 
 <!--
 
